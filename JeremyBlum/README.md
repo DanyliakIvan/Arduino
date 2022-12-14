@@ -22,3 +22,11 @@ third - on
 2.3:
 
 every pressed changes the brightness by 51. after 255 the brightness will be set to 0
+
+
+
+3.1:
+
+connected the potentiometer. we can see numbers from 0 to 1023 in output using Serial PORT
+
+
