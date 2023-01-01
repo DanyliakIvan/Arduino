@@ -57,6 +57,31 @@ the motor speed depends on brightness in the room (using photoresistor)
 turn the servo from 0 to 180 in increments of 20 degrees
 
 
+6.1:
+
+receiving character from computer using Serial port (UART). 
+not even numbers turn the led off and even numbers turn the led on.
+the program accepts only first number. the rest of numbers will be rejected.
+
+6.2:
+
+created the window using processing and changing the color of window using potentiometer.
+it needs two files to use this lesson: 6.2.ino and 6.2.pde.
+
+
+7.1:
+
+output temperature and humidity using DHT11 sensor
+
+7.2:
+
+the same that in 7.1 and added I2C. (Arduino2 -> DHT11 -> Arduino2 -> Arduino1 -> Serial)
+
+7.3:
+
+the same that in 7.2 and added processing.
+
+
 
 
 
