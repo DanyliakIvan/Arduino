@@ -82,6 +82,17 @@ the same that in 7.1 and added I2C. (Arduino2 -> DHT11 -> Arduino2 -> Arduino1 -
 the same that in 7.2 and added processing.
 
 
+8.1:
+													  (SPI)   (UART)
+tried SPI HW i-face. just send congtatulations (Master -> Slave -> PC)>
+
+8.2:
+
+just added HC-SR04. Master receive data from distance sensor and send it to Slave. Then Slave sent it to PC.
+
+
+
+
 
 
 
