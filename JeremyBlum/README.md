@@ -2,6 +2,24 @@
 
 https://www.youtube.com/playlist?list=PLA567CE235D39FA84
 
+
+Short description:
+
+1 - getting acquainted.
+2 - buttons, PWN and functions.
+3 - electrical engineering bacics.
+4 - analog inputs.
+5 - motors and transistors.
+6 - serial communication and processing.
+7 - I2C HW i-face.
+8 - SPI HW i-face.
+9 - It must have been XBEE (wireless communication), but I don't have anyone.
+10 - to be continued...
+
+
+More details:
+
+
 1.1:
 
 led turns on and off every 1s.
@@ -84,11 +102,16 @@ the same that in 7.2 and added processing.
 
 8.1:
 													  (SPI)   (UART)
-tried SPI HW i-face. just send congtatulations (Master -> Slave -> PC)>
+tried SPI HW i-face. just send congtatulations (Master -> Slave -> PC)
 
 8.2:
 
 just added HC-SR04. Master receive data from distance sensor and send it to Slave. Then Slave sent it to PC.
+
+
+9:
+
+...
 
 
 
