@@ -13,8 +13,11 @@ Short description:
 6 - serial communication and processing.
 7 - I2C HW i-face.
 8 - SPI HW i-face.
-9 - It must have been XBEE (wireless communication), but I don't have anyone.
-10 - to be continued...
+9 - It must have been XBEE (wireless communication), but I do not have anyone.
+10 - I do not have Shmmit's trigger.
+11 - I do not have a SD-card module.
+12 - RFID.
+13 - to be continued...
 
 
 More details:
@@ -111,6 +114,15 @@ just added HC-SR04. Master receive data from distance sensor and send it to Slav
 
 9:
 
+10:
+
+11:
+
+12:
+
+was used RFID card reading. if it's a right card, blue led will turn on, wait 1s and turn off. if is not right - red led will turn on; 
+
+
 ...
 
 
@@ -124,3 +136,5 @@ Own:
 1:
 
 use 8-bit shift register
+
+2:
